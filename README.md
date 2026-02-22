@@ -69,8 +69,8 @@ I'm building toward backend engineering at a systems level scalable APIs, reliab
 
 ## GitHub Stats
 
-![Elton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltonchiwala&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonchiwala&layout=compact&hide_border=true&theme=default)
+![Elton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slade-creator&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slade-creator&layout=compact&hide_border=true&theme=default)
 
 ---
 
