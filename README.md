@@ -1,6 +1,6 @@
 # Elton Chiwala
 
-Backend developer in training. I build and deploy full-stack web applications with a focus on the server side — authentication, database design, and API logic. Currently strengthening my foundations before moving into distributed systems and scalability.
+Backend developer in training. I build and deploy full-stack web applications with a focus on the server side authentication, database design, and API logic. Currently strengthening my foundations before moving into distributed systems and scalability.
 
 ---
 
