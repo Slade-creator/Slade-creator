@@ -2,7 +2,7 @@
 
 # Elton Chiwala
 
-**Backend developer building civic and financial infrastructure in Zambia**
+**Backend developer building civic and financial infrastructure**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Slade--creator-181717?style=flat&logo=github&logoColor=white)](https://github.com/Slade-creator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elton%20Chiwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-chiwala-9924b1261/)
@@ -12,7 +12,7 @@
 
 ---
 
-I'm a final-year ICT student at Mulungushi University in Zambia. My background is backend development: authentication, database design, API architecture. I've used that on four projects covering national digital identity, fintech, student housing, and humanitarian field operations. Lately I've been shifting toward AI engineering and the infrastructure and system design work underneath it.
+I'm a final-year ICT student at Mulungushi University. My background is backend development: authentication, database design, API architecture. I've used that on four projects covering national digital identity, fintech, student housing, and humanitarian field operations. Lately I've been shifting toward AI engineering and the infrastructure and system design work underneath it.
 
 ## Tech Stack
 
