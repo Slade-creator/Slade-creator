@@ -73,7 +73,7 @@ A national digital identity platform issuing cryptographically signed Digital ID
 
 **Stack:** Django · FastAPI · PostgreSQL/MySQL · Next.js · React Native (Capacitor) · Web Crypto API · ECDSA
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/nosiemaker/digital-id-prototype.git)
 
 ---
 
@@ -90,7 +90,7 @@ A full-stack marketplace connecting students with verified boarding house listin
 
 **Stack:** Java (Spring Boot) · PostgreSQL (Supabase) · Spring Security · React · TypeScript · AWS
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/Slade-creator/bhfinder.git)
 
 ---
 
@@ -107,7 +107,7 @@ An offline-first Android financial tracker with an AI-powered reporting backend,
 
 **Stack:** Java (Android) · Room · FastAPI · Python · OpenRouter AI · ReportLab
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/Slade-creator/financial_tracker.git)
 
 ---
 
@@ -124,7 +124,7 @@ A role-based mobile app for tracking field-level expenses and budget utilisation
 
 **Stack:** FastAPI · SQLModel · SQLite · React Native (Expo) · TypeScript · JWT
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/Slade-creator/world_vision_prototype.git)
 
 ## Currently Learning
 
